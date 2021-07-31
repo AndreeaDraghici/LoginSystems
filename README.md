@@ -14,9 +14,11 @@ In order to be able to log in the password is "automatica" and the user name is 
 
 ![invalidLogin](https://user-images.githubusercontent.com/72825756/127743036-9414b758-8366-4fd0-9fbe-f7e6c656c7c9.JPG)
 
-Now, if I want to connect, I reset the password to "automatica" and the user name to "andreea" and now I'm connected to the system.
+Now, if I want to connect, I reset the password to "automatica" and the user name to "andreea" and now I'm connected to the system:
 
 ![ValidLogin](https://user-images.githubusercontent.com/72825756/127743333-edfb46bc-b6cb-40d6-a69c-7bef105b8317.JPG)
+
+Connect message:
 
 ![ConnectLogin](https://user-images.githubusercontent.com/72825756/127743339-7e6e891a-1fef-4e27-95bd-08aa8f656b8d.JPG)
 
